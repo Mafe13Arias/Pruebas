@@ -1,5 +1,13 @@
-h1{
-    color: brown;
-    size: 100px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+div{
+    width: 100px;
+    height: 700px;
+    background-color:black;
+    display: inline-block;
+}
+.divGris{
+    
+    width: 200px;
+    height: 700px;
+    background-color: darkorange;
+    
 }
