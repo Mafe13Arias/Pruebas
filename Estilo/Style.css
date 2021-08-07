@@ -1,13 +1,56 @@
 div{
-    width: 100px;
-    height: 700px;
-    background-color:black;
+    width: 647px;
+    height: 60px;
+    background-color:rgb(0, 0, 0);
     display: inline-block;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
 }
 .divGris{
     
-    width: 200px;
+    width: 95px;
     height: 700px;
-    background-color: darkorange;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+.divCentro{
     
+    width: 400px;
+    height: 700px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+
+}
+.divLateralD{
+    
+    width: 130px;
+    height: 700px;
+    background-color: rgb(253, 249, 0);
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+label{
+    margin-top: 90px;
+    margin-left: 15px;
+    margin-bottom: 700px;
+}
+input{
+    width: 100px;
+    margin-top: 100px;
+    margin-left: 15px;
+    margin-bottom: 300px;
+}
+img{
+    width: 300px ;
+    height: 300px;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 50px;
+
+}
+h1{
+    color: ghostwhite;
+    position: 300px ;
 }
